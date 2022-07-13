@@ -132,4 +132,4 @@ dmypy.json
 .idea/
 
 # custom python modules to ignore
-./src/teamoflow/mf/benchmarking_ML.py
+src/teamoflow/mf/benchmarking_ML.py
