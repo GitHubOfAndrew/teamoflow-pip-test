@@ -7,4 +7,4 @@ from . import input_utils
 from . import utils
 from . import benchmarking_ML
 
-__all__ = [matrix_factorization, loss_graphs, predict_graphs, embedding_graphs, initializer_graphs, input_utils, utils, benchmarking_ML]
+__all__ = ['matrix_factorization', 'loss_graphs', 'predict_graphs', 'embedding_graphs', 'initializer_graphs', 'input_utils', 'utils', 'benchmarking_ML']
